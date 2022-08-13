@@ -11,7 +11,7 @@ Welcome to my portfolio!
 Also if you want to see some of my projects, here's link to my web portfolio.
 Link: (Currently working on...)
 
-About me.
+# About me.
 
 ————————————————————————
 
@@ -25,7 +25,7 @@ About me.
 × My goal: Develop innovative and interactive applications, with newest features and technology's. Hoping for achieving best user experience possible! 👤 
 
 
-My Lifestyle.
+# My Lifestyle.
 
 ————————————————————————
 
@@ -36,7 +36,7 @@ My Lifestyle.
 × Enjoying playing games.👾
 × Living in student dorm with constant social interactions.
 
-Skills.
+# Skills.
 
 ————————————————————————
 
@@ -58,7 +58,7 @@ Skills.
 
 ————————————————————————
 
-Contact me on:
+# Contact me on:
 LinkedIn 📪 
 Facebook 📘 
 Gmail ✉️
