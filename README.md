@@ -1,14 +1,17 @@
 Hello! 👋
 ————————————————————————
+
 I'm Lazar Pavlović. 
 Currently enjoying my twenties. 😁
 ————————————————————————
+
 Welcome to my portfolio!
 Also if you want to see some of my projects, here's link to my web portfolio.
 Link: (Currently working on...)
 
 About me.
 ————————————————————————
+
 × I'm Front-End Developer, with passion for programming and learning more technology's.💻
 × I'm currently working on "FX Gallery" project. If you wanna find out more, here's link: https://fx-gallery.vercel.app/
 × Also, github repository: https://github.com/equinoox/fx_gallery
@@ -21,6 +24,7 @@ About me.
 
 My Lifestyle.
 ————————————————————————
+
 × Building Apps. 
 × Playing sports. (Football, Basketball, etc...)⚽
 × Workout and Healthy diet, keeping healthy mind and body. 🥬
@@ -30,6 +34,7 @@ My Lifestyle.
 
 Skills.
 ————————————————————————
+
 × [HTML5] - Knowledge: Awsome, considering HTML5 being core of WebPages. 
 × [CSS3] - Preferring Minimalistic style and leaening to create cool animations. 
 × [SASS] - Better and faster CSS! 
