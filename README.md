@@ -55,6 +55,7 @@ Skills.
 × [Python]	- Longest experience and flexibility with Python.
 × [Git] - Knowledge of git workflow and branches. 
 × [VisualStudioCode] - My programing environment!
+
 ————————————————————————
 
 Contact me on:
