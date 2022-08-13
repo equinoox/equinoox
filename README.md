@@ -1,8 +1,10 @@
 Hello! 👋
+
 ————————————————————————
 
 I'm Lazar Pavlović. 
 Currently enjoying my twenties. 😁
+
 ————————————————————————
 
 Welcome to my portfolio!
@@ -10,6 +12,7 @@ Also if you want to see some of my projects, here's link to my web portfolio.
 Link: (Currently working on...)
 
 About me.
+
 ————————————————————————
 
 × I'm Front-End Developer, with passion for programming and learning more technology's.💻
@@ -23,6 +26,7 @@ About me.
 
 
 My Lifestyle.
+
 ————————————————————————
 
 × Building Apps. 
@@ -33,6 +37,7 @@ My Lifestyle.
 × Living in student dorm with constant social interactions.
 
 Skills.
+
 ————————————————————————
 
 × [HTML5] - Knowledge: Awsome, considering HTML5 being core of WebPages. 
@@ -51,6 +56,7 @@ Skills.
 × [Git] - Knowledge of git workflow and branches. 
 × [VisualStudioCode] - My programing environment!
 ————————————————————————
+
 Contact me on:
 LinkedIn 📪 
 Facebook 📘 
