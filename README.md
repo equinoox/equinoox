@@ -35,21 +35,21 @@ Link: (Currently working on...)
 # Skills.
 
 
-× [HTML5] - Knowledge: Awsome, considering HTML5 being core of WebPages. 
-× [CSS3] - Preferring Minimalistic style and leaening to create cool animations. 
-× [SASS] - Better and faster CSS! 
-× [Tailwind CSS] - In general awsome library for CSS.
-× [JavaScript] - Implementing logic to App with new ES6+ features!. 
-× [React] - Library/Framework that I mainly use.
-× [Next.js] - Upgrade for React with Full-Stack development.
-× [TypeScrit] - Learning...
-× [Node.js] - Learning...
-× [Express.js] - Learning...
-× [MongoDb] - Learning... 
-× [MySQL] - I'm used to creating Data Bases
-× [Python]	- Longest experience and flexibility with Python.
-× [Git] - Knowledge of git workflow and branches. 
-× [VisualStudioCode] - My programing environment!
+× [HTML5] 
+× [CSS3]
+× [SASS]
+× [Tailwind CSS]
+× [JavaScript]
+× [React]
+× [Next.js]
+× [TypeScrit]
+× [Node.js]
+× [Express.js]
+× [MongoDb]
+× [MySQL]
+× [Python]
+× [Git]
+× [VisualStudioCode]
 
 
 # Contact me on:
